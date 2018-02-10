@@ -40,11 +40,11 @@ weights to make different gears have different opportunities to come out.
 
 1.  **The process of doing project.**
 
-2.  Use Planes to build the floor and walls (which are transparent)
+-   Use Planes to build the floor and walls (which are transparent)
 
-3.  Wright moving function
+-   Wright moving function
 
-4.  Wright random function.
+-   Wright random function.
 
 // Only calculate possibility when player move further than 1, and then update
 the last position.
@@ -63,7 +63,7 @@ if(Vector3.Distance(lastPos,this.transform.position)\>=1.0f){
 
 }
 
-1.  Go to “Dig” scene. Show the three treasure levels when we click “Dig”
+-   Go to “Dig” scene. Show the three treasure levels when we click “Dig”
     button. Using this function showing as below:
 
 //using weights to distribute the different possibilities.
