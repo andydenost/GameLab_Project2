@@ -4,7 +4,7 @@
 
 **Second Project – Random Algorithm in Video Game**
 
-1.  **What is the line of inquiry of my first project?**
+**What is the line of inquiry of my first project?**
 
 I used to like playing the game like Pokemon. When the player controls the
 character in the game, he will meet monster randomly. The player will never know
@@ -17,7 +17,7 @@ rare and general gears.
 
 That’s why I want to do this project.
 
-1.  **The process of exploration**
+**The process of exploration**
 
 I plan to do it in Unity. Because the core of my project is design the random
 algorithm, I should not put so much effort on coding other things. So using
@@ -38,7 +38,7 @@ algorithm. That’s why I try both algorithm in my program.
 To simulate opening loot box, after researching on the Internet, I use different
 weights to make different gears have different opportunities to come out.
 
-1.  **The process of doing project.**
+**The process of doing project.**
 
 -   Use Planes to build the floor and walls (which are transparent)
 
@@ -88,7 +88,7 @@ float[] rand = new float[3];
                 }  
             }
 
-1.  **The result**
+**Result**
 
 Comparing two algorithms of meeting monster, I find the second one is more
 “comfortable” and “reasonable” than the first one. If we set the possibility is
@@ -101,7 +101,7 @@ time. It not corresponds with people’s common sense. To improve it, I think I
 should low down the best gear’s weight after it appears, and increase the weight
 of other gears’ appearing possibilities.
 
-1.  **Citation:**
+**Citation:**
 
 http://gad.qq.com/article/detail/21749
 
